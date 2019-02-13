@@ -1,2 +1,2 @@
-# selenium
-Generic Selenium Tests
+# scf-selenium
+Basic Selenium Test Scripts in Python.
